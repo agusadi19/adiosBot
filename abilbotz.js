@@ -60,7 +60,6 @@ const { fetchJosn, fetchText, kyun } = require('./lib/fetcher')
 const { color, bgcolor } = require('./lib/color')
 const { antiSpam } = require('./lib/antispam')
 require('./lib/fetcher')
-const { uploadImages } = require('./lib/uploadImage')
 const { mess } = require('./message/mess')
 const { wait, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, start, info, success, close } = require('./lib/functions')
 const premium = require('./lib/premium');
