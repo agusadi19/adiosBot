@@ -67,13 +67,13 @@ const simple = require('./lib/simple.js')
 
      //---Settings---//
 
-let botname = '_｢ AbilBotz 0.2 ｣ 冬_' //NAMA BOT
-let lolkey = 'Modal' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di api.lolhuman.xzy Untuk Mendapatkan Api Gratis
-let zekskey = 'Modal' // Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '_｢ AbilGanz ✘ ｣_' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
+let botname = '_｢ AdiosBotz 0.2 ｣ 冬_' //NAMA BOT
+let lolkey = '23ec48dd1daaba37f34c076f' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di api.lolhuman.xzy Untuk Mendapatkan Api Gratis
+let zekskey = 'ktGBgLtlS0MV3sNlX0rVEuc0KGT' // Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
+let ownername = '_｢ Adios ✘ ｣_' //NAMA OWNER
+let owner = '6285707042602' // NOMOR OWNER
 let symbol = '*冬*'
-let faketeks = `*_｢ AbilBotz 0.2 ｣ 冬_*` 
+let faketeks = `*_｢ AdiosBotz 0.2 ｣ 冬_*` 
 
      //---Donasi---//
 
